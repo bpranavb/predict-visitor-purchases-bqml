@@ -1,2 +1,2 @@
 # predict-visitor-purchases-bqml
-Logistic regression model using BigQuery ML to predict Google Analytics user purchases.
+Binary Classification model using Logistic Regression and BigQuery ML to predict Google Analytics user purchases.
